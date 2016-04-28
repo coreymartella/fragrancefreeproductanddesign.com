@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # About us:
 Fragrance Free Product and Design was founded by Nicolas Martella, a 2nd generation hair dresser,
 

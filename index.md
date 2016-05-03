@@ -3,7 +3,7 @@ layout: default
 ---
 
 # About us:
-Fragrance Free Product and Design was founded by Nicolas Martella, a 2nd generation hair dresser,
+Fragrance Free Product and Design was founded by Nicolas Martella, a 2nd generation hair dresser, education and format ahris chool owner.
 
 # Why be Fragrance Free?
 
@@ -20,4 +20,4 @@ Many people suffer from multiple chemical sensitivity triggered by chemicals fou
 * Paints and Primers
 
 # Contact Us
-Via email at [info@fragrancefreeproductanddesign.com](mailto:info@fragrancefreeproductanddesign.com) and by phone at [1-416-402-5733](tel://1-416-402-5733)
+Our trademarked logo is available for licensing for your product or establishment. Please contact us via email at [info@fragrancefreeproductanddesign.com](mailto:info@fragrancefreeproductanddesign.com) and by phone at [1-416-402-5733](tel://1-416-402-5733)

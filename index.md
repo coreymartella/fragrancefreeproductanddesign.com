@@ -3,7 +3,7 @@ layout: default
 ---
 
 # About us:
-Fragrance Free Product and Design was founded by Nicolas Martella, a 2nd generation hair dresser, education and format ahris chool owner.
+Fragrance Free Product and Design was founded by Nicolas Martella, a 2nd generation hair dresser, education and format hair school owner.
 
 # Why be Fragrance Free?
 
